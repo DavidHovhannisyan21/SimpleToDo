@@ -1,0 +1,19 @@
+{
+    "tasks":[
+        {
+            "id":1,
+            "title":"Learn Js",
+            "isFav": true  
+        },
+        {
+            "id":2,
+            "title":"Learn Pinia",
+            "isFav": true  
+        },
+        {
+            "id":3,
+            "title":"Learn Vuex",
+            "isFav": false  
+        }
+    ]
+}
